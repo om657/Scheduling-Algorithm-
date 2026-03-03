@@ -1,0 +1,6 @@
+Sample Test Case:
+Number of Processes: 3
+
+P0 -> Burst: 5, Priority: 2
+P1 -> Burst: 3, Priority: 1
+P2 -> Burst: 8, Priority: 3
